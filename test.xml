@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="test1.xsl"?> 
+<class>
+  <student>
+    <name>Abdus-Salaam</name>
+    <address>Ibadan</address>
+  </student>
+  <student>
+    <name>Abisola</name>
+    <address>Bonnie Tyler</address>
+  </student>
+</class>
